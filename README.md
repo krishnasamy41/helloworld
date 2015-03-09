@@ -4,5 +4,5 @@ test2
 My first repository on GitHub. Changes on develop.
 asdasd
 By
-Krishnasamy & Dinesh
+Krishnasamy
 End.
