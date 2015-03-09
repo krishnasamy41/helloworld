@@ -1,8 +1,6 @@
 test
 =======
 # helloworld
-My first repository on GitHub.
-sdfsdf
-
-
-WTF
+My first repository on GitHub. Changes on develop.
+By
+Krishna
